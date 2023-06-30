@@ -2,10 +2,13 @@
 <h3 align="center">Software engineer specializing in backend services, passionate about developing robust and scalable solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-soni007&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-soni007" /> </p>
-
+<img align="right" alt="coding" height="300" width="300" src="https://i.pinimg.com/736x/f7/a3/2d/f7a32dc944050a2efaf520d505500674.jpg">
 - 🌱 I’m currently learning **Node JS , Express , Low Level Design**
 
 - 💬 Ask me about **DSA , C++ , C , Java , Spring Boot**
+-  ⚡ Fun fact : *"The best thing about a boolean is that even
+                  if you are wrong, you are only off by a bit"*
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,6 +17,7 @@
 <a href="https://www.leetcode.com/cr7adi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cr7adi" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/cr7adiac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="cr7adiac" height="30" width="40" /></a>
 </p>
+
 
 
 <!-- Language and tools stuff start here  -->
@@ -94,6 +98,42 @@
 
 
 
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-soni007&show_icons=true&locale=en&layout=compact" alt="aditya-soni007" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-soni007&show_icons=true&locale=en" alt="aditya-soni007" /></div>
+### My GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-soni007&" alt="aditya-soni007" /></p>
+<table>
+
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aditya-Soni007&count_private=true&show_icons=true&theme=tokyonight"/>
+
+</td>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Soni007&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Soni007"/>
+
+</td>
+
+
+
+
+
+<td>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aditya-Soni007&row=3&column=4&no-bg=true"/>
+
+</td>
+
+</tr>
+
+</table>
