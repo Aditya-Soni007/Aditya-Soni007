@@ -56,7 +56,7 @@
 	<td>Databases</td>
 	<td>
 			<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="40" height="40"/> </a> 
-			 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png" alt="postgresql" width="40" height="40"/> </a>
+			 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" alt="postgresql" width="40" height="40"/> </a>
 			 <a href="https://cassandra.apache.org/_/index.html/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/></a>	
 			 <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a>
 			 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303460/redis-logo.svg" alt="redis" width="40" height="40"/> </a>
