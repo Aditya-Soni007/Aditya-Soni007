@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aditya-soni-b85610202" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" alt="aditya-soni-b85610202" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/cr7_adi" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="cr7_adi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/cr7adi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="cr7adi" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/cr7adiac" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" alt="cr7adiac" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aditya-soni-b85610202" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/linkedin-2752135-2284952.png?f=webp&w=256" alt="aditya-soni-b85610202" height="30" width="30" /></a>
+<a href="https://www.codechef.com/users/cr7_adi" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="cr7_adi" height="35" width="35" /></a>
+<a href="https://www.leetcode.com/cr7adi" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256" alt="cr7adi" height="35" width="35" /></a>
+<a href="https://auth.geeksforgeeks.org/user/cr7adiac" target="blank"><img align="center" src="https://img.icons8.com/color/480w/GeeksforGeeks.png" alt="cr7adiac" height="40" width="40" /></a>
 </p>
 
 
