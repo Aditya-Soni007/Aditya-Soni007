@@ -30,11 +30,11 @@
 			<td>
 		<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 		<a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+		<img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="java" width="40" height="40"/> </a> 
 		<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">	
-		 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">	
-		 <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> 
-		 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+		 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">	
+		 <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354313/scala.svg" alt="scala" width="40" height="40"/> </a> 
+		 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/376344/python.svg" alt="python" width="40" height="40"/> </a>
 	  </td>
    </tr>
 	<tr>
