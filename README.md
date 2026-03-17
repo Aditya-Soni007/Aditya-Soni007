@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-soni007&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-soni007" /> </p>
 <img align="right" alt="coding" height="300" width="300" src="https://i.pinimg.com/736x/f7/a3/2d/f7a32dc944050a2efaf520d505500674.jpg">
 
-- 🌱 I’m currently learning **Node JS , Express , Low Level Design**
+- 🌱 I’m currently learning **High Level Design , Agentic AI**
 
 - 💬 Ask me about **DSA , C++ , C , Java , Spring Boot**
 -  ⚡ Fun fact : *"The best thing about a boolean is that even
